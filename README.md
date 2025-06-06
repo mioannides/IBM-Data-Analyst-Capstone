@@ -1,2 +1,2 @@
 # IBM-Data-Analyst-Capstone
-final assessment in fulfilment of IBM Data Analyst certification
+This contains the final assessments in fulfilment of IBM's Data Analyst certification
